@@ -1,7 +1,7 @@
 package com.lk.sliit.rocart.config;
 
 
-import com.lk.sliit.rocart.entity.User;
+import com.lk.sliit.rocart.model.User;
 import com.lk.sliit.rocart.repository.UserRepository;
 import com.lk.sliit.rocart.utils.SecurityUtils;
 import org.springframework.security.core.GrantedAuthority;

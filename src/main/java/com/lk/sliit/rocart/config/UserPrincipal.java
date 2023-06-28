@@ -1,7 +1,7 @@
 package com.lk.sliit.rocart.config;
 
 
-import com.lk.sliit.rocart.entity.User;
+import com.lk.sliit.rocart.model.User;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
