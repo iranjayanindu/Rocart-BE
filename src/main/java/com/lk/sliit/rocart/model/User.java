@@ -1,4 +1,4 @@
-package com.lk.sliit.rocart.entity;
+package com.lk.sliit.rocart.model;
 
 
 import com.lk.sliit.rocart.enumz.Role;

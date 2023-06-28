@@ -2,7 +2,7 @@ package com.lk.sliit.rocart.service.impl;
 
 
 import com.lk.sliit.rocart.dto.UserDto;
-import com.lk.sliit.rocart.entity.User;
+import com.lk.sliit.rocart.model.User;
 import com.lk.sliit.rocart.repository.UserRepository;
 import com.lk.sliit.rocart.service.UserService;
 import lombok.extern.slf4j.Slf4j;

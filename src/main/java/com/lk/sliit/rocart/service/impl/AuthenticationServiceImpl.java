@@ -4,7 +4,7 @@ package com.lk.sliit.rocart.service.impl;
 import com.lk.sliit.rocart.config.UserPrincipal;
 import com.lk.sliit.rocart.config.jwt.JwtProvider;
 import com.lk.sliit.rocart.dto.UserDto;
-import com.lk.sliit.rocart.entity.User;
+import com.lk.sliit.rocart.model.User;
 import com.lk.sliit.rocart.service.AuthenticationService;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
